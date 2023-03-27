@@ -12,12 +12,15 @@
   
 
 - *❓ Ask me about anything*  
-  
+
 
 <br/>  
 
 
 ## My Skill Set  
+
+Since i started in Henry's bootcamp, i learned:
+
 <table><tr><td valign="top" width="33%">
 
 
