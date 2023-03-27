@@ -78,13 +78,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lechugaxthz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+<br/> 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lautarogonzalogarcia&cover_image=true&theme=default&show_offline=false&background_color=682727&interchange=false&bar_color=60ac5d&bar_color_cover=false" /></div>  
 
@@ -92,13 +86,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lechugaxthz&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
