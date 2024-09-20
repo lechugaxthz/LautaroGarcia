@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dium as Associate Web Developer<br>🌱 I’m currently learning Python<br>💬 Ask me about anything<br>
+🔭 I’m currently working at BEDU as Teaching Assistant!<br>🌱 I’m learning Haskell and Python as well<br>🚀 Computer Science (1° year) <br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
